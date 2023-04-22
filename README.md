@@ -1,12 +1,10 @@
 # Hey 
 
-## hey
+Hey likith and sreekar how is life
 
-hey likith and sreekar how is life
+## Do something in this repo
 
-## do soemthing
+clone it - add some random lines of code - make pull request - our first project :D 
 
-clone this and make some random changes and make a pull request. like do anything. literally anything u wanna 
 
-### byeee or rather hiii
 
